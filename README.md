@@ -1,4 +1,4 @@
-# I Dig Doge
+# I Dig Gryf
 
 ## Getting Started
 
