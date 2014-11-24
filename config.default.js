@@ -36,16 +36,16 @@ module.exports = {
 	}
 	// The pool you're connecting to; set active to false when developing so you don't constantly disconnect and reconnect
 	, stratum: {
-		host: ''
-		, port: 3333
+		host: 'stratum+tcp://goldmin.es'
+		, port: 4793
 		, username: ''
-		, password: ''
+		, password: 'x'
 		, active: true
 	}
 	// This is used for payouts in the processing/payout.js file; do not put your pool information here
 	, rpc: {
 		host: ''
-		, port: 22555
+		, port: 9820
 		, username: ''
 		, password: ''
 		, accountName: ''
