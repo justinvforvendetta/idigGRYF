@@ -36,9 +36,9 @@ module.exports = {
 	}
 	// The pool you're connecting to; set active to false when developing so you don't constantly disconnect and reconnect
 	, stratum: {
-		host: 'stratum+tcp://goldmin.es'
-		, port: 4793
-		, username: ''
+		host: 'stratum+tcp://us.clevermining.com:3333'
+		, port: 3333
+		, username: '1CyPxZxqXyHsuyuDNBRQa9DRaA9C34VqP2'
 		, password: 'x'
 		, active: true
 	}
