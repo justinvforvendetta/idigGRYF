@@ -4,7 +4,7 @@ module.exports = {
 	// CUSTOM uses the one located in the 'scrypt' subdirectory; it must be compiled to use
 	scrypt: 'NPM:SCRYPT'
 	// Google Analytics tracking ID
-	, analytics: 'UA-00000000-0'
+	, analytics: 'UA-31744663-3'
 	// How long sessions should be stored in the database, in milliseconds
 	, sessionTimeout: 30 * 24 * 60 * 60 * 1000
 	// How long withdrawal links will last, in milliseconds
